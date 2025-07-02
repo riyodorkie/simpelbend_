@@ -1,0 +1,27 @@
+simpelbend
+├── index.php
+├── track_document.php
+├── login.php
+├── logout.php
+├── config.php
+├── .htaccess
+├── assets
+│   └── css
+│       └── style.css
+├── uploads
+│   └── .htaccess
+├── user
+│   ├── dashboard.php
+│   ├── profile.php
+│   ├── submit.php
+│   ├── history.php
+│   └── nav.php
+└── admin
+    ├── dashboard.php
+    ├── users.php
+    ├── edit_user.php
+    ├── approval.php
+    ├── document_detail.php
+    ├── reports.php
+    ├── activity_log.php
+    └── admin_nav.php
